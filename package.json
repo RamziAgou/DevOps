@@ -1,0 +1,14 @@
+{
+  "name": "projetnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PetiteAppli.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
